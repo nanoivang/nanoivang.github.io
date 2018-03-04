@@ -3,7 +3,7 @@
 body {
 	font-family: Journal;
 	font-size: 40px;
-	background-image:image("../res/bg.jpg") no-repeat;
+	background-image:url("../res/bg.jpg");
 	background-position: center;
 	text-align: center;
 }
