@@ -24,8 +24,7 @@ div {
 .block {
     width: 640px;
     height: 720px;
-	top:25%;;
-	left:25%;
+	left:35%;
     position:absolute;
 	background-color: #ffffff;
     margin: 0 0 0 0;
