@@ -4,8 +4,9 @@ body {
 	font-family: Journal;
 	font-size: 40px;
 	background-image:url("../res/bg.jpg");
-	background-position: center;
 	text-align: center;
+	background-size: 100%;
+
 }
 
 div{
