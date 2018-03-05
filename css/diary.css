@@ -12,7 +12,7 @@ body {
 
 div {
 	height: 720px; width: 640px;
-	font-family: Journal;
+	font-family: "Journal";
 	font-size: 40px;
 }
 .parent {
