@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
 font-family: "Journal";
-src: url("../fonts/m1.ttf");
+src: url("../fonts/m1.TTF");
 }
 /* CSS Document */
 body {
@@ -12,7 +12,6 @@ body {
 
 div {
 	height: 720px; width: 640px;
-	position: absolute;
 	font-family: Journal;
 	font-size: 40px;
 }
