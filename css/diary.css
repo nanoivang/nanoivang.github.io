@@ -1,4 +1,8 @@
 @charset "utf-8";
+@font-face {
+font-family: "Journal";
+src: url("css/fonts/m1.ttf");
+}
 /* CSS Document */
 body {
 	background-image:url(../res/club.png);
