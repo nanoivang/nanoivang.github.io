@@ -7,10 +7,10 @@ body {
 }
 
 div {
-	height: 720px; width: 640px;
+	height: 1080px; width: 640px;
 	position: absolute;
 	font-family: Journal;
-	font-size: 40px;
+	font-size: 23px;
 }
 .parent {
     width: 100%;
@@ -23,7 +23,7 @@ div {
 
 .block {
     width: 640px;
-    height: 720px;
+    height: 1080px;
 	left:35%;
     position:absolute;
 	background-color: #ffffff;
