@@ -1,4 +1,8 @@
 @charset "utf-8";
+@font-face {
+font-family: "Journal";
+src: url("../fonts/m1.TTF");
+}
 /* CSS Document */
 body {
 	background-image:url(../res/club.png);
@@ -8,8 +12,7 @@ body {
 
 div {
 	height: 1080px; width: 640px;
-	position: absolute;
-	font-family: Journal;
+	font-family: "Journal";
 	font-size: 23px;
 }
 .parent {
@@ -24,7 +27,7 @@ div {
 .block {
     width: 640px;
     height: 1080px;
-	left:35%;
+	left:33%;
     position:absolute;
 	background-color: #ffffff;
     margin: 0 0 0 0;
@@ -32,5 +35,4 @@ div {
 
 h1 {
     color: white;
-    text-align: center;
-}
+    text-align: center;}
